@@ -1,7 +1,7 @@
 ## Ciao, sono Alessandro 👋
 
 Laureato in Informatica all'Università di Camerino (UNICAM) e studente della magistrale in Ingegneria Informatica al Politecnico di Torino.
-Mi interessano lo sviluppo backend in Java, il design del codice (OOP, SOLID, clean code) e lo sviluppo di giochi con Godot.
+Mi interessano lo sviluppo backend in Java, il design del codice (OOP, SOLID, clean code) e lo sviluppo di giochi.
 
 ### Progetti in evidenza
 
